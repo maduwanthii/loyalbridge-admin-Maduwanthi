@@ -1,5 +1,5 @@
 # loyalbridge-admin-Maduwanthi
-# LoyalBridge Admin Panel
+
 
 This project is a technical evaluation for a full-stack admin panel built with:
 
